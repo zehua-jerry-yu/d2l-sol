@@ -1,0 +1,1 @@
+personal sol for d2l book
